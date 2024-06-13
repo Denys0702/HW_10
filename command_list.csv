@@ -21,3 +21,8 @@
    21  git merge develop
    22  git log
    23  history > command_list.csv
+   24  git add .
+   25  git commit -m "Added command history and other changes"
+   26  git push origin main
+   27  git pull origin main  
+   28  history > command_list.csv
